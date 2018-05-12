@@ -1,0 +1,29 @@
+_repo: The-Life-of-King-Edward-VIIwith-a-sketch-of-the-career-of-King-George-V_25112
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hopkins, J. Castell (John Castell)
+    alias: Hopkins, John Castell
+    birthdate: 1864
+    deathdate: 1923
+    gutenberg_agent_id: '28414'
+    url: http://www.gutenberg.org/2009/agents/28414
+description: ''
+gutenberg_issued: '2008-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25112'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Edward VII, King of Great Britain, 1841-1910'
+- !lcc 'DA'
+title: 'The Life of King Edward VII
+
+  with a sketch of the career of King George V'
+url: http://www.gutenberg.org/ebooks/25112
